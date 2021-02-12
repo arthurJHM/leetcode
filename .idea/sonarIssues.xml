@@ -3,6 +3,7 @@
   <component name="issues">
     <option name="index">
       <map>
+<<<<<<< HEAD
         <entry key="/Dummy.txt">
           <value>
             <set />
@@ -13,6 +14,8 @@
             <set />
           </value>
         </entry>
+=======
+>>>>>>> origin/main
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/Test.java">
           <value>
             <set />

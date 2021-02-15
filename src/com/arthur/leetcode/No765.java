@@ -7,4 +7,7 @@ package com.arthur.leetcode;
  * @Version 1.0
  */
 public class No765 {
+    public static void main(String[] args) {
+
+    }
 }

@@ -13,7 +13,7 @@ public class No406 {
 
 
     public int[][] reconstructQueue(int[][] people) {
-        return
+        return null;
     }
 }
 

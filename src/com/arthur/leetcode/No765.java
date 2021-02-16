@@ -15,22 +15,19 @@ public class No765 {
     public  int minSwapsCouples(int[] row) {
         int n = row.length;
         int m = n / 2;
-        p = new int[n];
-        for (int i = 0; i < n; i++) {
+        p = new int[m];
+        for (int i = 0; i < m; i++) { //每一个都是一个类  并且一共只有m类   需要完全割裂p[] 数组和原始的row  没有对应关系的  p[]数组只是用来不同类的标记
             p[i] = i;
         }
-
         for (int i = 0; i < n; i+=2) {
-            union(row[i] / 2, row[i + 1] / 2);
+            union(row[i] / 2, row[i + 1] / 2);  //表明相邻的俩个数所对应的类需要合并
         }
-
         int num = 0;
         for (int i = 0; i < m; i++) {
             if(find(i) == i) {
                 num++;
             }
         }
-
         return m - num;
     }
 
@@ -38,9 +35,9 @@ public class No765 {
         p[find(a)] = p[find(b)];
     }
 
-    private int find(int a) {
+    private int find(int a) {//找到属于哪一类
         if(p[a] != a) {
-            p[a] = find(p[a]);
+            p[a] = find(p[a]); //路径压缩了
         }
         return p[a];
     }

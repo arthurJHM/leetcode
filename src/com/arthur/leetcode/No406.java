@@ -2,6 +2,7 @@ package com.arthur.leetcode;
 
 import javax.sound.midi.Soundbank;
 import java.sql.SQLOutput;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
 
@@ -14,7 +15,7 @@ import java.util.Comparator;
 public class No406 {
     public static void main(String[] args) {
         int[][] req= new int[][]{{7,0},{4,4},{7,1},{5,0},{6,1},{5,2}};
-        int[][] ans = reconstructQueue(req);
+        int[][] ans = reconstructQueue2(req);
         for (int[] row : ans) {
             for (int col : row) {
                 System.out.print(col);
@@ -56,6 +57,47 @@ public class No406 {
         }
 
         return ans;
+    }
+
+    public static int[][] reconstructQueue2(int[][] people) {
+
+        Arrays.sort(people, new Comparator<int[]>() {
+            @Override
+            public int compare(int[] o1, int[] o2) {
+                if(o1[0] != o2[0]) {
+                    return o2[0] - o1[0];
+                }
+                else {
+                    return o1[1] - o2[1];
+                }
+            }
+        });
+
+        int row = people.length;
+        int col = people[0].length;
+        ArrayList<ArrayList<Integer>> ans = new ArrayList<>();
+        int num = 0;
+
+        for (int[] person : people) {
+            ArrayList<Integer> temp = new ArrayList<>();
+            temp.add(person[0]);
+            temp.add(person[1]);
+            if(person[1] > num) {
+                ans.add(temp);
+            }
+            else {
+               ans.add(person[1], temp);
+            }
+            num++;
+        }
+
+        int[][] anss = new int[row][col];
+        for (int i = 0; i < ans.size(); i++) {
+            for (int j = 0; j < ans.get(i).size(); j++) {
+                anss[i][j] = ans.get(i).get(j);
+            }
+        }
+        return anss;
     }
 }
 

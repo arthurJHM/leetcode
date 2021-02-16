@@ -97,7 +97,7 @@ public class No406 {
                 anss[i][j] = ans.get(i).get(j);
             }
         }
-        return anss;
+        return  anss;
     }
 }
 

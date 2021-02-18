@@ -41,6 +41,8 @@ public class No995 {
                 deque.removeFirst();
             }
 
+            //1.本来是1，翻转奇数次变为0，所以需要再次翻转，放入队列
+            //2.本来是0，翻转偶数次还是0，所以需要再次翻转，放入队列
             if(deque.size() % 2 == A[i]) {
                 if(i + K > A.length) {
                     return -1;

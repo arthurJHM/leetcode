@@ -10,7 +10,7 @@ import java.util.HashMap;
  */
 public class No287 {
     public static void main(String[] args) {
-        System.out.println(new No287().findDuplicate(new int[]{1, 3, 4, 2, 2}));
+        System.out.println(new No287().findDuplicate1(new int[]{1, 3, 4, 2, 2}));
     }
 
     public int findDuplicate(int[] nums) {
@@ -24,6 +24,27 @@ public class No287 {
             }
         }
         return 0;
+    }
+
+    public int findDuplicate1(int[] nums) {
+        int left = 0;
+        int right = nums.length;
+        int n;
+        while(right > left) {
+            int mid = (left + right) >>> 1;
+            n = 0;
+            for (int num : nums) {
+                if(num <= mid) {
+                    n++;
+                }
+            }
+            if(n > mid) {
+                right = mid;
+            }else {
+                left = mid + 1;
+            }
+        }
+        return left;
     }
 }
 

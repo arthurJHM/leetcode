@@ -1,5 +1,7 @@
 package com.arthur.leetcode;
 
+import sun.security.rsa.RSAKeyFactory;
+
 import java.util.Arrays;
 import java.util.PriorityQueue;
 import java.util.Random;
@@ -12,8 +14,10 @@ import java.util.Random;
  */
 public class No215 {
     public static void main(String[] args) {
-        System.out.println(new No215().findKthLargest(new int[]{3,2,3,1,2,4,5,5,6}, 4));
+        System.out.println(new No215().findKthLargest1(new int[]{3,2,3,1,2,4,5,5,6}, 4));
     }
+
+    Random random = new Random(System.currentTimeMillis());
 
     public int findKthLargest(int[] nums, int k) {
         int len = nums.length;
@@ -25,6 +29,45 @@ public class No215 {
             minHeap.poll();
         }
         return minHeap.peek();
+    }
+
+    public int findKthLargest1(int[] nums, int k) {
+        int left = 0;
+        int right = nums.length;
+        int target =  nums.length - k;
+        while(true) {
+            int index = partition(nums, left, right);
+            if(index == target) {
+                return nums[index];
+            } else if(index < target) {
+                left = index + 1;
+            } else if(index > target) {
+                right = index;
+            }
+        }
+    }
+
+    private int partition(int[] nums, int left, int right) {
+        if(right > left) {
+            int temp = left + random.nextInt(right - left);
+            swap(nums, temp, left);
+        }
+        int pivot = nums[left];
+        int j = left;
+        for (int i = left + 1; i < right; i++) {
+            if(nums[i] < pivot) {
+                j++;
+                swap(nums, i, j);
+            }
+        }
+        swap(nums, j, left);
+        return j;
+    }
+
+    private void swap(int[] nums, int a, int b) {
+        int temp = nums[a];
+        nums[a] = nums[b];
+        nums[b] = temp;
     }
 }
 /*

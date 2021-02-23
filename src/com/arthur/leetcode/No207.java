@@ -12,6 +12,6 @@ public class No207 {
     }
 
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-
+        return true;
     }
 }

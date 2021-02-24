@@ -18,21 +18,21 @@ public class No394 {
     public String decodeString(String s) {
         StringBuilder res = new StringBuilder();
         int multi = 0;
-        LinkedList<Integer> stack_multi = new LinkedList<>();
-        LinkedList<String> stack_res = new LinkedList<>();
+        Stack<Integer> stack_multi = new Stack<>();
+        Stack<String> stack_res = new Stack<>();
         for (char c :s.toCharArray()){
             if(c == '[') {
-                stack_multi.add(multi);
-                stack_res.add(res.toString());
+                stack_multi.push(multi);
+                stack_res.push(res.toString());
                 multi = 0;
                 res = new StringBuilder();
             } else if(c == ']') {
                 StringBuilder temp = new StringBuilder();
-                int mul = stack_multi.removeLast();
+                int mul = stack_multi.pop();
                 for (int i = 0; i < mul; i++) {
                     temp.append(res);
                 }
-                res = new StringBuilder(stack_res.removeLast() + temp);
+                res = new StringBuilder(stack_res.pop() + temp);
             } else if(Character.isDigit(c)) {
                 multi= multi * 10 + Integer.parseInt(c + "");
             } else {

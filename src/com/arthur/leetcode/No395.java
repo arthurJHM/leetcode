@@ -14,18 +14,21 @@ public class No395 {
     }
 
     public int longestSubstring(String s, int k) {
-        if (s.length() < k) return 0;
-        HashMap<Character, Integer> counter = new HashMap();
-        for (int i = 0; i < s.length(); i++) {
-            counter.put(s.charAt(i), counter.getOrDefault(s.charAt(i), 0) + 1);
+        if (s.length() < k) {
+            return 0;
         }
-        for (char c : counter.keySet()) {
-            if (counter.get(c) < k) {
-                int res = 0;
-                for (String t : s.split(String.valueOf(c))) {
-                    res = Math.max(res, longestSubstring(t, k));
+        HashMap<String, Integer> hashmap = new HashMap<>();
+        for (int i = 0; i < s.length(); i++) {
+            String key = String.valueOf(s.charAt(i));
+            hashmap.put(key ,hashmap.getOrDefault(key, 0 ) + 1);
+        }
+        int max = 0;
+        for (String key : hashmap.keySet()) {
+            if(hashmap.get(key) < k) {
+                for (String item : s.split(key)) {
+                    max = Math.max(longestSubstring(item, k), max);
                 }
-                return res;
+                return max;
             }
         }
         return s.length();

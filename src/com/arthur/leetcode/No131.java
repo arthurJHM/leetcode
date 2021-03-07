@@ -18,8 +18,12 @@ public class No131 {
         List<List<String>> ans = new ArrayList<>();
         Stack<String> path = new Stack<String>();
         boolean[][] dp = new boolean[len][len];
-        for (int i = 0; i < len * 2 - 1; i++) {
-            huiwenpro(s, dp, i / 2, (i + 1) / 2);
+//        for (int i = 0; i < len * 2 - 1; i++) {
+//            huiwenpro(s, dp, i / 2, (i + 1) / 2);
+//        }
+        for(int i = 0; i < len; i++){  //这样求回文子串更舒服
+            huiwenpro(s, dp, i, i);
+            huiwenpro(s, dp, i, i + 1);
         }
         dfs(s, 0, dp, ans, path);
         return ans;

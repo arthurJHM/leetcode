@@ -32,7 +32,8 @@ public class No131 {
         }
         for (int i = k; i < s.length(); i++) {
             if (dp[k][i]) {
-                path.push(new String(s.substring(k, i)));
+//                path.push(new String(s.substring(k, i + 1)));
+                path.push(s.substring(k, i + 1));
                 dfs(s, i + 1, dp, ans, path);
                 path.pop();
             }

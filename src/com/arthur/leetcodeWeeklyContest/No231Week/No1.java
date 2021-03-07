@@ -8,9 +8,9 @@ package com.arthur.leetcodeWeeklyContest.No231Week;
  */
 public class No1 {
     public static void main(String[] args) {
-
+        new No1().checkOnesSegment("1001");
     }
-    public boolean checkOnesSegment(String s) {
+    public boolean checkOnesSegment_1(String s) {
         int len = s.length();
         boolean ans = false;
         int flag = 0;
@@ -27,6 +27,9 @@ public class No1 {
             }
         }
         return ans;
+    }
+    public boolean checkOnesSegment(String s) {
+        return s.split("0+").length > 1;
     }
 }
 

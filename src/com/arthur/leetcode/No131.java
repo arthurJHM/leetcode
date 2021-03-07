@@ -40,7 +40,8 @@ public class No131 {
     }
 
     private void huiwenpro(String s, boolean[][] dp, int i, int j) {
-        while (i >= 0 && j < s.length() && s.charAt(i) == s.charAt(j) && ((j - i <= 2) || dp[i + 1][j - 1] == true)) {
+//        while (i >= 0 && j < s.length() && s.charAt(i) == s.charAt(j) && ((j - i <= 2) || dp[i + 1][j - 1] == true)) { //不用判断那么多
+        while (i >= 0 && j < s.length() && s.charAt(i) == s.charAt(j)) {
             dp[i][j] = true;
             i--;
             j++;

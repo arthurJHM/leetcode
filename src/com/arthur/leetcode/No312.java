@@ -22,13 +22,14 @@ public class No312 {
     public int maxCoins(int[] nums) {
         int[] num = new int[nums.length + 2];
         int len = num.length;
+//        如果没有在前后添加1的话，很难处理边界问题
         num[0] = 1;
         num[len - 1] = 1;
         for (int i = 1; i < len - 1; i++) {
             num[i] = nums[i - 1];
         }
         int dp[][] = new int[len][len];
-        for (int n = 2; n < len; n++) { //对每一个区间大小进行循环  都是开区间
+        for (int n = 2; n < len; n++) { //对每一个区间大小进行循环  都是开区间  还是开区间比较好啊
             for (int j = 0; j < len - n; j++) {//对每一个开始位置进行循环
 
                 dp[j][j + n] = rangeBest(j, j + n, num, dp);

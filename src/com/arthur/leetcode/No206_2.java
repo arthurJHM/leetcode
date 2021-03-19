@@ -1,5 +1,7 @@
 package com.arthur.leetcode;
 
+import java.util.LinkedList;
+
 /**
  * @title: No206_2
  * @Author ArthurJi
@@ -36,6 +38,18 @@ public class No206_2 {
         head.next.next = head;
         head.next = null;
         return last;
+    }
+
+    public ListNode reverseList_2(ListNode head) {
+        ListNode slow = null;
+        ListNode fast = head;
+        while (fast != null) {
+            ListNode temp = fast.next;
+            fast.next = slow;
+            slow = fast;
+            fast = temp;
+        }
+        return slow;
     }
 }
 

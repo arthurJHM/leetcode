@@ -37,6 +37,7 @@ public class No2 {
                     right.add(r);
                 }
             }
+            if(left.isEmpty() || right.isEmpty()) continue;
             for (Integer l : left) {
                 for (Integer r : right) {
                     max = Math.max(b[l] + b[r] + b[i], max);

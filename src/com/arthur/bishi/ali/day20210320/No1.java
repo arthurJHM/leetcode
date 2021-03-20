@@ -7,4 +7,8 @@ package com.arthur.bishi.ali.day20210320;
  * @Version 1.0
  */
 public class No1 {
+    public static void main(String[] args) {
+
+    }
+
 }

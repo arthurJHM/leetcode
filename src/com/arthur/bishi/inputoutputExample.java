@@ -1,4 +1,4 @@
-package com.arthur.bishi.ali;
+package com.arthur.bishi;
 
 import java.util.Arrays;
 import java.util.Scanner;

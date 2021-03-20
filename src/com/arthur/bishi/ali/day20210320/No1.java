@@ -27,7 +27,7 @@ public class No1 {
         for (int i = 0; i < n / 2; i++) {
             ans += nums[i];
         }
-        System.out.printf(String.valueOf(ans));
+        System.out.println(ans);
     }
 
 }

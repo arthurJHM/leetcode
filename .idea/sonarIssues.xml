@@ -158,6 +158,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/src/main/java/com/arthur/springbeancircular/circularTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../java-learn/src/main/java/com/arthur/synchronizedTest/PrintABC.java">
           <value>
             <set />
@@ -324,6 +329,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No146_2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No15.java">
           <value>
             <set />
           </value>
@@ -553,6 +563,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No341.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No341_NestedInteger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No344.java">
           <value>
             <set />
@@ -609,6 +629,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No406.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No412.java">
           <value>
             <set />
           </value>

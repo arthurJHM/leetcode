@@ -1,5 +1,9 @@
 package com.arthur.leetcode;
 
+import jdk.nashorn.internal.objects.NativeNumber;
+
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -10,11 +14,51 @@ import java.util.List;
  */
 public class No15 {
     public static void main(String[] args) {
+//        new No15().threeSum(new int[]{-1,0,1,2,-1,-4});
+        new No15().threeSum(new int[]{0, 0, 0});
 
     }
 
     public List<List<Integer>> threeSum(int[] nums) {
+        Arrays.sort(nums);
+        int len = nums.length;
+        ArrayList<List<Integer>> lists = new ArrayList<>();
+        if (len == 0 || nums[len - 1] < 0 || nums[0] > 0 || len < 3) {
+            return lists;
+        }
+        for (int i = 0; i < len; i++) {
 
+            int left = i + 1;
+            int right = len - 1;
+            if (right <= left) {
+                break;
+            }
+            if (nums[i] > 0) {
+                return lists;
+            }
+            int target = 0 - nums[i];
+            while (left < right) {
+                if (nums[left] + nums[right] < target) {
+                    left++;
+                } else if (nums[left] + nums[right] > target) {
+                    right--;
+                } else if (nums[left] + nums[right] == target) {
+                    lists.add(new ArrayList<Integer>(Arrays.asList(nums[i], nums[left], nums[right])));
+                    while (left < len - 1 && nums[left] == nums[left + 1]) {
+                        left++;
+                    }
+                    while (right > 0 && nums[right] == nums[right - 1]) {
+                        right--;
+                    }
+                    left++;
+                    right--;
+                }
+            }
+            while (i < len - 1&& nums[i] == nums[i + 1]) {
+                i++;
+            }
+        }
+        return lists;
     }
 }
 

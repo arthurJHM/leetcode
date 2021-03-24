@@ -10,36 +10,36 @@ import java.util.Map;
  * @Version 1.0
  */
 public class No437 {
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode() {
-        }
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
-    }
+//    public class TreeNode {
+//        int val;
+//        TreeNode left;
+//        TreeNode right;
+//
+//        TreeNode() {
+//        }
+//
+//        TreeNode(int val) {
+//            this.val = val;
+//        }
+//
+//        TreeNode(int val, TreeNode left, TreeNode right) {
+//            this.val = val;
+//            this.left = left;
+//            this.right = right;
+//        }
+//    }
 
     public static void main(String[] args) {
 
     }
 
-    public int pathSum(TreeNode root, int sum) {
+    public int pathSum(Treenode root, int sum) {
         HashMap<Integer, Integer> sumMap = new HashMap<>();
         sumMap.put(0, 1);
         return recursionPathSum(root, sumMap, sum, 0);
     }
 
-    private int recursionPathSum(TreeNode root, HashMap<Integer, Integer> sumMap, int target, int currentSum) {
+    private int recursionPathSum(Treenode root, HashMap<Integer, Integer> sumMap, int target, int currentSum) {
         if(root == null) {
             return 0;
         }
@@ -55,6 +55,7 @@ public class No437 {
 }
 class Treenode {
     Treenode left;
+    Treenode right;
     int val;
 
 }

@@ -20,13 +20,13 @@ public class No26 {
         }
         int j = 0;
         for (int i = 1; i < len; i++) {
-            while (nums[j] == nums[i]) {
-                i++;
+            if (nums[j] == nums[i]) {
+                continue;
             }
             nums[j+1] = nums[i];
             j++;
         }
-        return j;
+        return j + 1;
     }
 }
 /*

@@ -1,5 +1,7 @@
 package com.arthur.leetcode;
 
+import javax.sound.midi.MidiChannel;
+
 /**
  * @title: No69
  * @Author ArthurJi

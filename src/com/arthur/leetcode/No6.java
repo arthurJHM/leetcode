@@ -9,6 +9,11 @@ import java.util.ArrayList;
  * @Version 1.0
  */
 public class No6 {
+    public static void main(String[] args) {
+        String[] test = new String[1];
+        test[0] += "asd";
+        System.out.println(test[0]);//nullasd
+    }
 
     public String convert(String s, int numRows) {
         int flag = 1;

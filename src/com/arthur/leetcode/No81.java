@@ -11,7 +11,7 @@ import java.util.Arrays;
  */
 public class No81 {
     public static void main(String[] args) {
-
+        new No81().search_1(new int[]{2, 5, 6, 0, 0, 1, 2}, 3);
     }
 
     public boolean search(int[] nums, int target) {
@@ -40,9 +40,9 @@ public class No81 {
         return false;
     }
 
-    public boolean search(int[] nums, int target) {
+    public boolean search_1(int[] nums, int target) {
         Arrays.sort(nums);
-        return Arrays.stream(nums).findFirst()
+        return Arrays.binarySearch(nums, target) >= 0;
     }
 }
 

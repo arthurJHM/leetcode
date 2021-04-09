@@ -8,7 +8,7 @@ package com.arthur.bishi.ali.ali0409;
  */
 public class No1 {
     public static void main(String[] args) {
-//        "Hello    world".replaceAll(" +"," ");
+        "Hello    world".replaceAll(" +"," ");
         StringBuilder str = new StringBuilder("Hello    world");
         int j = 0;
         for (int i = 0; i < str.length() - 1; i++) {

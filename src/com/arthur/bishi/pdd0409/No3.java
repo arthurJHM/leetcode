@@ -1,55 +1,40 @@
 package com.arthur.bishi.pdd0409;
 
-/**
- * @title: No3
- * @Author ArthurJi
- * @Date: 2021/4/9 15:57
- * @Version 1.0
- */
-
+import java.util.Arrays;
 import java.util.Scanner;
 
-public class No3 {//错的
+/**
+ * @title: No3_1
+ * @Author ArthurJi
+ * @Date: 2021/4/9 16:48
+ * @Version 1.0
+ */
+public class No3 {
     public static void main(String[] args) {
-        Scanner sca = new Scanner(System.in);
-        String n = sca.nextLine();
-        String s = sca.nextLine();
+        Scanner sc = new Scanner(System.in);
+        int k = sc.nextInt();
+        String s = sc.next();
+        char[] s1 = s.toCharArray();
+        int m = s1.length / k;
+        char[] s2 = new char[m];
 
-        int k = Integer.parseInt(n);
-        if (strMax(s, k) == "A") {
+        StringBuffer res = new StringBuffer();
+        if (s1.length % k != 0) {
             System.out.println(-1);
-        }
-        else {
-            System.out.println(strMax(s, k));
-        }
-    }
-    public static String strMax(String s, int k){
-        int len = s.length();
-        if(count(s, k)) {
-            return s;
-        }
-        char[] c = s.toCharArray();
-        for (int i = len - 1; i >= 0; i--) {
-            while(c[i] - 'a' > 0){
-                c[i] = (char) (c[i] - 1);
-                if(count(new String(c), k)) {
-                    return new String(c);
+        } else {
+            for (int i = 0; i < m; i++) {
+                s2[i] = s1[i];
+            }
+            Arrays.sort(s2);
+            res.append(String.valueOf(s2));
+            for (int i = s2.length - 1; i >= 0; i--) {
+                for (int j = 0; j < k - 1; j++) {
+                    res.append(s2[i]);
                 }
             }
-            c[i] = 'z';
+
+            System.out.println(res.toString());
         }
-        return "A";
-    }
-    public static boolean count(String s, int k){
-        int[] co = new int[26];
-        for (int i = 0; i < s.length(); i++) {
-            co[s.charAt(i) - 'a']++;
-        }
-        for (int i = 0; i < co.length; i++) {
-            if(co[i] != 0 && co[i] % k != 0) {
-                return false;
-            }
-        }
-        return true;
+
     }
 }

@@ -1,20 +1,20 @@
 package com.arthur.leetcode;
 
 /**
- * @title: No530
+ * @title: No783
  * @Author ArthurJi
- * @Date: 2021/4/13 10:23
+ * @Date: 2021/4/13 10:03
  * @Version 1.0
  */
-public class No530 {
+public class No783 {
     public static void main(String[] args) {
 
     }
 
     public class TreeNode {
         int val;
-        No783.TreeNode left;
-        No783.TreeNode right;
+        TreeNode left;
+        TreeNode right;
 
         TreeNode() {
         }
@@ -23,21 +23,21 @@ public class No530 {
             this.val = val;
         }
 
-        TreeNode(int val, No783.TreeNode left, No783.TreeNode right) {
+        TreeNode(int val, TreeNode left, TreeNode right) {
             this.val = val;
             this.left = left;
             this.right = right;
         }
     }
 
-    No783.TreeNode pre;
+    TreeNode pre;
     int min = Integer.MAX_VALUE;
-    public int minDiffInBST(No783.TreeNode root) {
+    public int minDiffInBST(TreeNode root) {
         dfs(root);
         return min;
     }
 
-    private void dfs(No783.TreeNode root) {
+    private void dfs(TreeNode root) {
         if(root == null) {
             return;
         }

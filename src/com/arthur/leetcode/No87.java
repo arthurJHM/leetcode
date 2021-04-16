@@ -31,7 +31,7 @@ public class No87 {
         for (int len = 2; len <= len1; len++) {
             for (int i = 0; i <= len1 - len; i++) {
                 for (int j = 0; j <= len1 - len; j++) {
-                    for (int k = 0; k < len; k++) {
+                    for (int k = 1; k < len; k++) {
                         if (dp[i][j][k] && dp[i + k][j + k][len - k]) {
                             dp[i][j][len] = true;
                             break;

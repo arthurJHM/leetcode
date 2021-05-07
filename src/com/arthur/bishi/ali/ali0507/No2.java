@@ -25,8 +25,6 @@ public class No2 {
 
     }
 
-
-
     private static void moveTree(TreeNode root, int k) {
         Queue<TreeNode> queue = new LinkedList<>();
         queue.add(root);

@@ -22,7 +22,6 @@ public class No2 {
         TreeNode root = buildTree(nums);
         // 移动二叉树
         moveTree(root, k);
-
     }
 
     private static void moveTree(TreeNode root, int k) {

@@ -45,11 +45,13 @@ public class No1723 {
             ans = max;
             return;
         }
+        // 优先分配给「空闲工人」
         if(used < k_) {
             sum[used] = jobs_[u];
-            dfs(u + 1, used + 1, sum, Math.max(sum[used], max));
+            dfs(u + 1, used + 1, sum, Math.max(jobs_[u], max));
             sum[used] = 0;
         }
+        //这种情况不是优先分配给空闲工人
         for (int i = 0; i < used; i++) {
             sum[i] += jobs_[u];
             dfs(u + 1, used, sum, Math.max(max, sum[i]));

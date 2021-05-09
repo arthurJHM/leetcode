@@ -23,6 +23,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.4.6/spring-data-commons-2.4.6.jar!/org/springframework/data/repository/PagingAndSortingRepository.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE.jar!/org/springframework/security/web/authentication/www/BasicAuthenticationFilter.class">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/下一题.url">
           <value>
             <set />
@@ -38,7 +48,127 @@
             <set />
           </value>
         </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MALL/mall-tiny/src/main/resources/generator.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MALL/mall-tiny/src/main/resources/mapper/ums/UmsAdminLoginLogMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../MALL/mall/mall-search/src/main/java/com/macro/mall/search/dao/EsProductDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Cloud/ruoyi-auth/src/main/resources/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Cloud/ruoyi-gateway/src/main/resources/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Cloud/ruoyi-modules/ruoyi-file/src/main/resources/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Cloud/ruoyi-modules/ruoyi-gen/src/main/java/com/ruoyi/gen/controller/GenController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Cloud/ruoyi-modules/ruoyi-gen/src/main/resources/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Cloud/ruoyi-modules/ruoyi-job/src/main/resources/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Cloud/ruoyi-modules/ruoyi-system/src/main/resources/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Cloud/ruoyi-visual/ruoyi-monitor/src/main/resources/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Vue/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Vue/ruoyi-admin/src/main/java/com/ruoyi/web/controller/system/SysConfigController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Vue/ruoyi-admin/src/main/resources/application-druid.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Vue/ruoyi-admin/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Vue/ruoyi-common/src/main/java/com/ruoyi/common/utils/poi/ExcelUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Vue/ruoyi-framework/src/main/java/com/ruoyi/framework/aspectj/DataScopeAspect.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Vue/ruoyi-framework/src/main/java/com/ruoyi/framework/config/SecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Vue/ruoyi-framework/src/main/java/com/ruoyi/framework/config/ThreadPoolConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Vue/ruoyi-framework/src/main/java/com/ruoyi/framework/manager/AsyncManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Vue/ruoyi-framework/src/main/java/com/ruoyi/framework/web/service/UserDetailsServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Vue/ruoyi-ui/src/views/system/user/index.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-fast/src/main/resources/application-druid.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-fast/src/main/resources/application.yml">
           <value>
             <set />
           </value>
@@ -63,7 +193,482 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/.idea/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/BaseTest/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/BaseTest/src/main/java/com/arthur/fileTest/getfile.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/BaseTest/src/main/java/com/arthur/java11httpclient/HttpClientTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/BaseTest/src/main/java/com/arthur/luanqibazao/HelloJDK9.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/BaseTest/src/main/java/com/arthur/stream/StreamTest2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/mybatisTest/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/mybatisTest/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/mybatisTest/src/main/resources/mybatis/mybatis-config.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/mybatisTest/src/main/resources/mybatis/mybatis-generator.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../java-learn/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springTest/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springTest/src/main/java/com/arthur/config/FileHandleConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springTest/src/main/java/com/arthur/jdbcTemplateTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springTest/src/main/java/com/arthur/jdbcTest/jdbcTemplateTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springTest/src/main/java/com/arthur/jdbcTest/jdbcTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-ES/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-mybatis-generator-mall-tiny/src/main/java/com/arthur/Appliction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-mybatis-generator-mall-tiny/src/main/java/com/arthur/config/MyBatisConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-mybatis-generator-mall-tiny/src/main/java/com/arthur/controller/PmsBrandController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-mybatis-generator-mall-tiny/src/main/java/com/arthur/dao/UmsAdminRoleRelationDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-mybatis-generator-mall-tiny/src/main/java/com/arthur/mbg/Generator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-mybatis-generator-mall-tiny/src/main/java/com/arthur/service/PmsBrandService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-mybatis-generator-mall-tiny/src/main/java/com/arthur/service/impl/PmsBrandServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-mybatis-generator-mall-tiny/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-mybatis-generator-mall-tiny/src/main/resources/generator.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-mybatis-generator-mall-tiny/src/main/resources/generatorConfig.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-mybatis/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-mybatis/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-rabbitmq-springtaskTest/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-rabbitmq-springtaskTest/src/main/java/com/arthur/dto/QueueEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-rabbitmq/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-rabbitmq/src/main/java/com/arthur/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-rabbitmq/src/main/java/com/arthur/component/CancelOrderReceiver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-rabbitmq/src/main/java/com/arthur/component/CancelOrderSender.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-rabbitmq/src/main/java/com/arthur/component/OrderTimeOutCancelTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-rabbitmq/src/main/java/com/arthur/config/RabbitMqConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-rabbitmq/src/main/java/com/arthur/controller/OmsPortalOrderController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-rabbitmq/src/main/java/com/arthur/dto/QueueEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-rabbitmq/src/main/java/com/arthur/service/OmsPortalOrderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-rabbitmq/src/main/java/com/arthur/service/generateOrder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-rabbitmq/src/main/java/com/arthur/service/impl/OmsPortalOrderServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-rabbitmq/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-redis/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-redis/src/main/java/Appliction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-redis/src/main/java/com/Appliction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-redis/src/main/java/com/arthur/common/api/CommonResult.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-redis/src/main/java/com/arthur/common/api/IErrorCode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-redis/src/main/java/com/arthur/common/api/ResultCode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-redis/src/main/java/com/arthur/controller/UmsMemberController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-redis/src/main/java/com/arthur/services/RedisService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-redis/src/main/java/com/arthur/services/UmsMemberService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-redis/src/main/java/com/arthur/services/impl/RedisServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-redis/src/main/java/com/arthur/services/impl/UmsMemberServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-redis/src/main/java/common/api/CommonPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-redis/src/main/java/controller/UmsMemberController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-redis/src/main/java/services/PmsBrandService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-redis/src/main/java/services/RedisService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-redis/src/main/java/services/UmsMemberService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-redis/src/main/java/services/impl/PmsBrandServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-redis/src/main/java/services/impl/RedisServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-redis/src/main/java/services/impl/UmsMemberServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-redis/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-security/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-security/src/main/java/com/arthur/Appliction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-security/src/main/java/com/arthur/component/JwtAuthenticationTokenFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-security/src/main/java/com/arthur/component/RestAuthenticationEntryPoint.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-security/src/main/java/com/arthur/component/RestfulAccessDeniedHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-security/src/main/java/com/arthur/config/MyBatisConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-security/src/main/java/com/arthur/config/SecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-security/src/main/java/com/arthur/config/Swagger2Config.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-security/src/main/java/com/arthur/controller/PmsBrandController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-security/src/main/java/com/arthur/controller/UmsAdminController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-security/src/main/java/com/arthur/controller/UmsMemberController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-security/src/main/java/com/arthur/dao/UmsAdminRoleRelationDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-security/src/main/java/com/arthur/dto/AdminUserDetails.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-security/src/main/java/com/arthur/service/PmsBrandService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-security/src/main/java/com/arthur/service/UmsAdminService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-security/src/main/java/com/arthur/service/UmsMemberService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-security/src/main/java/com/arthur/service/impl/PmsBrandServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-security/src/main/java/com/arthur/service/impl/RedisServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-security/src/main/java/com/arthur/service/impl/UmsAdminServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-security/src/main/java/com/arthur/service/impl/UmsMemberServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-security/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-security/src/main/resources/generator.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-security/src/main/resources/generatorConfig.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-security/src/main/resources/mapper/UmsAdminRoleRelationDao.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-springtask/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-springtask/src/main/java/com/arthur/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-springtask/src/main/java/com/arthur/component/OrderTimeOutCancelTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-springtask/src/main/java/com/arthur/config/SpringTaskConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-springtask/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-swagger/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-swagger/src/main/java/com/arthur/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-swagger/src/main/java/com/arthur/config/Swagger2Config.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-swagger/src/main/java/com/arthur/controller/TestController.java">
           <value>
             <set />
           </value>
@@ -208,12 +813,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/src/main/java/com/arthur/threadlocal/ThreadLocalTest3_mulThreadLocal.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../java-learn/src/main/java/com/arthur/threadpoolexecutor/ExecutorsTest.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../java-learn/src/main/java/com/arthur/threadpoolexecutor/ThreadPoolExecutor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/src/main/java/com/arthur/webApplicationContextTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/src/main/java/com/arthur/webApplicationContextTest/webApplicationContextTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jpress/README.md">
           <value>
             <set />
           </value>
@@ -238,7 +863,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/bishi/ali/ali0507/No1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/bishi/ali/ali0507/No2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/bishi/ali/inputoutputExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/bishi/ali413/No1.java">
           <value>
             <set />
           </value>
@@ -323,6 +963,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/bishi/tengxun0418/No3.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/bishi/wangyi0410/No3.java">
           <value>
             <set />
@@ -333,12 +978,77 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/bishi/xiecheng0415/No1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/bishi/xiecheng0415/No2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/bishi/yuanjing0408/No1.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/bishi/yuanjing0408/No2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/bishi/zijie0411/No3.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/bishi/zijie0411/No4.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/bishi/zijie0411/test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/bishi/zijie0413/No1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/bishi/zijie0509/No2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/bishi/zijie0509/No3.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/bishi/zijie0509/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/bishi/zijie0509/Test2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No10.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No1011.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No108.java">
           <value>
             <set />
           </value>
@@ -363,6 +1073,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No138.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No1482.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No153.java">
           <value>
             <set />
@@ -378,7 +1098,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No1723.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No179.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No1832.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No198.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No208.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No213.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No220.java">
           <value>
             <set />
           </value>
@@ -403,7 +1153,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No26.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No263.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No264.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No27.java">
           <value>
             <set />
           </value>
@@ -428,7 +1193,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No32.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No328.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No33.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No337.java">
           <value>
             <set />
           </value>
@@ -443,7 +1223,47 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No368.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No371.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No377.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No378.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No4.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No503.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No530.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No6.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No633.java">
           <value>
             <set />
           </value>
@@ -453,7 +1273,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No67.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No69.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No76.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No783.java">
           <value>
             <set />
           </value>
@@ -473,7 +1308,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No87.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No897.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No9.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No91.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No938.java">
           <value>
             <set />
           </value>
@@ -489,6 +1344,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/xiecheng/No1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../peachplatform/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../peachplatform/src/main/resources/application.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../peachplatform/src/main/resources/templates/add.html">
           <value>
             <set />
           </value>
@@ -739,6 +1609,31 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../simple-rpc/server/src/main/java/com/github/simplerpc/rpc/server/Server.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-boot-examples/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springboot-sqlite/demo.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springboot-sqlite/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../zfile/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/ruoyi/vue/api/system/menu.js">
           <value>
             <set />
           </value>

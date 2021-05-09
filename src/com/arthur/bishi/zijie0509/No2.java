@@ -18,6 +18,7 @@ public class No2 {
         scanner.nextLine();
         long[] add = new long[n];
         char[] s = scanner.nextLine().toCharArray();
+//        Stream.of(s).mapToInt(o -> Integer.parseInt(o + "")).toArray();
         for (int i = 0; i < q; i++) {
             int l = scanner.nextInt();
             int r = scanner.nextInt();

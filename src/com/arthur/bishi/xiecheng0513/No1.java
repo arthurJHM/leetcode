@@ -36,7 +36,7 @@ public class No1 {
     }
 
     /** 
-    * @Description:  ceshifenzhi
+    * @Description:  ceshifenzhi2
     * @Param: [scores, card] 
     * @return: int 
     * @Author: hengmingji

@@ -11,6 +11,7 @@ import java.util.Scanner;
 public class No1 {
     static int[] dp;
     public static void main(String[] args) {
+        new No2();
         Scanner in = new Scanner(System.in);
 
         int _scores_size = 0;
@@ -34,6 +35,13 @@ public class No1 {
 //        dp[i] = dp[i - 1]
     }
 
+    /** 
+    * @Description:  
+    * @Param: [scores, card] 
+    * @return: int 
+    * @Author: hengmingji
+    * @Date: 2021/5/15-20:16
+    */
     private static int process(int[] scores, int[] card) {
 //        process()
         return 0;

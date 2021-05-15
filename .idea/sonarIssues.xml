@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Class.txt.ft">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="/Dummy.txt">
           <value>
             <set />
@@ -19,6 +24,11 @@
           </value>
         </entry>
         <entry key="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.0.RELEASE/spring-boot-2.3.0.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.2.6.RELEASE/spring-cloud-openfeign-core-2.2.6.RELEASE.jar!/org/springframework/cloud/openfeign/FeignClient.class">
           <value>
             <set />
           </value>
@@ -69,6 +79,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Cloud/ruoyi-auth/src/main/resources/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Cloud/ruoyi-common/ruoyi-common-security/src/main/java/com/ruoyi/common/security/annotation/EnableRyFeignClients.java">
           <value>
             <set />
           </value>
@@ -173,6 +188,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../Springboot-learn/geektime-spring-family/Chapter 3/mybatis-generator-demo/src/main/java/geektime/spring/data/mybatis/MybatisGeneratorDemoApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Springboot-learn/geektime-spring-family/Chapter 3/mybatis-generator-demo/src/main/java/geektime/spring/data/mybatis/mapper/CoffeeMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Springboot-learn/geektime-spring-family/Chapter 3/mybatis-generator-demo/src/main/java/geektime/spring/data/mybatis/model/Coffee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Springboot-learn/geektime-spring-family/Chapter 3/mybatis-generator-demo/src/main/java/geektime/spring/data/mybatis/model/CoffeeExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../dubbo/README.md">
           <value>
             <set />
@@ -208,7 +243,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/BaseTest/src/main/java/com/arthur/iteratortest/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../java-learn/BaseTest/src/main/java/com/arthur/java11httpclient/HttpClientTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/BaseTest/src/main/java/com/arthur/java8instant/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/BaseTest/src/main/java/com/arthur/java9instant.java">
           <value>
             <set />
           </value>
@@ -278,6 +328,36 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-jpa/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-jpa/src/main/java/com/arthur/jpademo/JpaDemoApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-jpa/src/main/java/com/arthur/jpademo/model/Coffee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-jpa/src/main/java/com/arthur/jpademo/model/CoffeeOrder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-jpa/src/main/java/com/arthur/jpademo/repository/CoffeeOrderRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-jpa/src/main/java/com/arthur/jpademo/repository/CoffeeRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../java-learn/springboot-mybatis-generator-mall-tiny/src/main/java/com/arthur/Appliction.java">
           <value>
             <set />
@@ -324,6 +404,46 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../java-learn/springboot-mybatis-generator-mall-tiny/src/main/resources/generatorConfig.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-mybatis-generator/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-mybatis-generator/src/main/java/com/arthur/mybatis/MybatisGeneratorDemoApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-mybatis-generator/src/main/java/com/arthur/mybatis/handler/MoneyTypeHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-mybatis-generator/src/main/java/com/arthur/mybatis/mapper/CoffeeMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-mybatis-generator/src/main/java/com/arthur/mybatis/model/Coffee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-mybatis-generator/src/main/java/com/arthur/mybatis/model/CoffeeExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-mybatis-generator/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-learn/springboot-mybatis-generator/src/main/resources/generatorConfig.xml">
           <value>
             <set />
           </value>
@@ -988,6 +1108,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/bishi/xiecheng0513/No1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/bishi/xiecheng0513/No2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/bishi/yuanjing0408/No1.java">
           <value>
             <set />
@@ -1083,6 +1213,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No1486.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No153.java">
           <value>
             <set />
@@ -1098,7 +1233,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No1720.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No1723.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No1734.java">
           <value>
             <set />
           </value>
@@ -1184,6 +1329,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No289.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No3.java">
           <value>
             <set />
           </value>
@@ -1309,6 +1459,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No87.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No872.java">
           <value>
             <set />
           </value>

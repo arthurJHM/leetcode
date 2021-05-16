@@ -44,6 +44,7 @@ public class No1 {
     */
     private static int process(int[] scores, int[] card) {
 //        ceshi
+//        ceshi
 //        process()
         // TODO: 2021/5/15 这个代码怕是写不出来了  测试一下todo
         // FIXME: 2021/5/15 测试一下fixme

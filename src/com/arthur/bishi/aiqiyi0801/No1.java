@@ -22,10 +22,12 @@ public class No1 {
             double rate = (temp2 - temp1) / temp1;
             max = Double.max(max, rate);
         }
-        NumberFormat nf = NumberFormat.getPercentInstance();
-        nf.setMinimumFractionDigits(2);
-        nf.setRoundingMode(RoundingMode.HALF_UP);
-        String format = nf.format(max);
-        System.out.println(format);
+        max *= 100;
+        System.out.printf("%.2f%%", max);
+//        NumberFormat nf = NumberFormat.getPercentInstance();
+//        nf.setMinimumFractionDigits(2);
+//        nf.setRoundingMode(RoundingMode.HALF_UP);
+//        String format = nf.format(max);
+//        System.out.println(format);
     }
 }

@@ -1,11 +1,9 @@
 package com.arthur.bishi.tengxun0811;
 
-import jdk.nashorn.internal.objects.annotations.Getter;
-import jdk.nashorn.internal.objects.annotations.Setter;
-import sun.security.krb5.internal.tools.Klist;
-
-import javax.jws.soap.SOAPBinding;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.concurrent.ConcurrentSkipListMap;
 
 /**
  * @description：
@@ -19,6 +17,11 @@ public class UserScoreRank {
 
     ArrayList<Integer> list = new ArrayList<>();
     HashMap<Integer, UserScore> map = new HashMap<>();
+    static ConcurrentSkipListMap<Integer, String> map2 =  new ConcurrentSkipListMap<>();
+
+    public static void main(String[] args) {
+        map2.put(1, "1");
+    }
 
     //根据比赛结果，批量更新玩家信息
     public int updateUserScoreRank(List<UserScore> src) {

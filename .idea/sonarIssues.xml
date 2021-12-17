@@ -63,6 +63,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../Learning/java-common-mistakes/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MALL/mall-learning/mall-tiny-04/src/main/java/com/macro/mall/tiny/service/impl/UmsAdminServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MALL/mall-learning/mall-tiny/src/main/java/com/macro/mall/tiny/component/WebLogAspect.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../MALL/mall-tiny/src/main/resources/generator.properties">
           <value>
             <set />
@@ -968,6 +983,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/anyway/Test3Files.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/bishi/Test.java">
           <value>
             <set />
@@ -1004,6 +1024,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/bishi/ali413/No1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/bishi/hangzhouyinghang1020/No1.java">
           <value>
             <set />
           </value>
@@ -1228,12 +1253,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No1519.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No153.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No154.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No1610.java">
           <value>
             <set />
           </value>
@@ -1499,6 +1534,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No938.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/jzoffer3.java">
           <value>
             <set />
           </value>
@@ -1794,6 +1834,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../springboot-sqlite/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../xxl-job/xxl-job-admin/src/main/java/com/xxl/job/admin/core/cron/CronExpression.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../xxl-job/xxl-job-core/src/main/java/com/xxl/job/core/server/EmbedServer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-frameless/src/main/java/com/xxl/job/executor/sample/frameless/jobhandler/SampleXxlJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-springboot/src/main/java/com/xxl/job/executor/service/jobhandler/SampleXxlJob.java">
           <value>
             <set />
           </value>

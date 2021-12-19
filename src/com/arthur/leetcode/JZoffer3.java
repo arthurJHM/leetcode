@@ -8,7 +8,7 @@ package com.arthur.leetcode;
  * @Date: 2021/12/17 22:02
  * @Version 1.0
  */
-public class jzoffer3 {
+public class JZoffer3 {
     public int findRepeatNumber(int[] nums) {
         for (int i = 0; i < nums.length; i++) {
             if(nums[i] == i) {

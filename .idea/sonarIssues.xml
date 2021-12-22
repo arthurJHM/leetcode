@@ -1203,6 +1203,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/JZoffer11.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/JZoffer24.java">
           <value>
             <set />
@@ -1218,12 +1223,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/JZoffer32.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/JZoffer32_2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/JZoffer32_3.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/JZoffer35.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/JZoffer4.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/JZoffer5.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/JZoffer50.java">
           <value>
             <set />
           </value>
@@ -1269,6 +1299,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No1137.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No1154.java">
           <value>
             <set />
           </value>
@@ -1364,6 +1399,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No213.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No213_2.java">
           <value>
             <set />
           </value>
@@ -1498,6 +1538,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No45.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No475.java">
           <value>
             <set />
@@ -1514,6 +1559,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No530.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No55_2.java">
           <value>
             <set />
           </value>
@@ -1538,12 +1588,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No686.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No69.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No70.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/arthur/leetcode/No740.java">
           <value>
             <set />
           </value>

@@ -10,7 +10,7 @@ package com.arthur.leetcode;
  */
 public class No1314 {
     public static void main(String[] args) {
-        new No1314().matrixBlockSum(new int[][]{{1, 2, 3}, {4, 5, 6}, {7, 8, 9}}, 1);
+            new No1314().matrixBlockSum(new int[][]{{1, 2, 3}, {4, 5, 6}, {7, 8, 9}}, 1);
     }
 
     public int[][] matrixBlockSum(int[][] mat, int k) {
